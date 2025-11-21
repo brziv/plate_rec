@@ -1,0 +1,10 @@
+# Latin-alphabet plates
+
+max_plate_slots: 10
+alphabet: '0123456789ABCDEFGHKLM-.' # remove char after M
+pad_char: '-'
+img_height: 32
+img_width: 128
+keep_aspect_ratio: true
+interpolation: linear # for resizing input
+image_color_mode: rgb
